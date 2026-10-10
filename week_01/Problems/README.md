@@ -101,11 +101,3 @@ int Main ()
   return 0;
 }
 ```
-
-**Example 1:**
-
-```
-Input: 3 4
-Output:
-a, b = The product of 3 and 4 is: 12
-```
